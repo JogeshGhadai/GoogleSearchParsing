@@ -5,8 +5,7 @@ import requests
 from bs4 import BeautifulSoup
 
 
-if __name__ == "__main__":
-    all_conf = get_all_config("./config.yaml")
+def get_result_dict(all_conf):
     res_dict = {}
     text = input("Enter the keyword to search: ")
     print("Fetching Results from Google...")
@@ -48,11 +47,9 @@ if __name__ == "__main__":
         indi_dict["link"] = result.select('a')[0].get('href')
         indi_dict["description"] = "".join([x.text for x in result.find('div',class_="IsZvec").select("span")])
         res_dict["results"]["organic_results"][counter]= indi_dict
+    
+    return res_dict
 
-    with open(f"{all_conf["out_file_path"]}results_{text.replace(" ", "_")}.json","w") as fl:
-        json.dump(res_dict,fl,indent=2)
-
-    print("Data fetched and written to JSON Successfully.")
 
 def get_all_config(conf_file_path):
     all_conf = None
@@ -64,3 +61,12 @@ def get_all_config(conf_file_path):
         print("Error in opening the config file.")
     finally:
         return all_conf
+
+
+if __name__ == "__main__":
+    all_conf = get_all_config("./config.yaml")
+    res_dict = get_result_dict(all_conf)
+    with open(f"{all_conf["out_file_path"]}results_{text.replace(" ", "_")}.json","w") as fl:
+        json.dump(res_dict,fl,indent=2)
+
+    print("Data fetched and written to JSON Successfully.")
