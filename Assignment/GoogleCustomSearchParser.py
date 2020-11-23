@@ -19,18 +19,16 @@ headers = {'user-agent': Agent}
 r = requests.get(url, headers=headers)
 soup = BeautifulSoup(r.text, 'html.parser')
 
-#import pdb;pdb.set_trace()
-top_results = soup.find_all('g-scrolling-carousel')
-#top_results = soup.find_all('div',class_='mCBkyc oz3cqf p5AXld nDgy9d')
+all_top = soup.find_all('g-scrolling-carousel')
+top_results = all_top[0].find_all('div',class_='JJZKK') if len(all_top)>0 else ""
 results = soup.find_all('div',class_='rc')
-#results = soup.find_all('div',class_='yuRUbf')
 
 counter = 0
 res_dict["results"] = {}
 res_dict["results"]["top_results"] = {}
 res_dict["results"]["organic_results"] = {}
 
-for result in top_results:
+for result in top_results[:3]:
     counter += 1
     indi_dict = {}
     temp = result.find_all('div',class_='mCBkyc oz3cqf p5AXld nDgy9d')[0].text

@@ -1,61 +1,56 @@
 {
   "keyword": "shop",
-  "organic_results": [
-    {
-      "sl_no": 1,
-      "title": "Online Shopping Site India - Shop Electronics, Mobiles, Men ...",
-      "site_name": "www.snapdeal.com",
-      "link": "https://www.snapdeal.com/",
-      "description": "Online shopping site - Shop Electronics, Mobile, Men & Women Clothing, Shoes, Home & Kitchen appliances online on Snapdeal in India. \u2606 Next Day Delivery\u00a0...Online shopping site - Shop Electronics, Mobile, Men & Women Clothing, Shoes, Home & Kitchen appliances online on Snapdeal in India. \u2606 Next Day Delivery\u00a0..."
-    },
-    {
-      "sl_no": 2,
-      "title": "Online Shopping Site India - Shop Online for men, women and ...",
-      "site_name": "www.shopclues.com",
-      "link": "https://www.shopclues.com/",
-      "description": "Online shopping site in India - Shop Online for men, women and kids fashion, home d\u00e9cor and furnishings, kitchen apppliances, health and sports products at\u00a0...Online shopping site in India - Shop Online for men, women and kids fashion, home d\u00e9cor and furnishings, kitchen apppliances, health and sports products at\u00a0..."
-    },
-    {
-      "sl_no": 3,
-      "title": "Online Shopping site in India: Shop Online for Mobiles, Books ...",
-      "site_name": "www.amazon.in",
-      "link": "https://www.amazon.in/",
-      "description": "Amazon.in: Online Shopping India - Buy mobiles, laptops, cameras, books, watches, apparel, shoes and e-Gift Cards. Free Shipping & Cash on Delivery\u00a0...Amazon.in: Online Shopping India - Buy mobiles, laptops, cameras, books, watches, apparel, shoes and e-Gift Cards. Free Shipping & Cash on Delivery\u00a0..."
-    },
-    {
-      "sl_no": 4,
-      "title": "Myntra: Online Shopping for Women, Men, Kids Fashion ...",
-      "site_name": "www.myntra.com",
-      "link": "https://www.myntra.com/",
-      "description": "Online Shopping Site for Fashion & Lifestyle in India. Buy Shoes, Clothing, Accessories and lifestyle products for women & men. Best Online Fashion Store\u00a0...Online Shopping Site for Fashion & Lifestyle in India. Buy Shoes, Clothing, Accessories and lifestyle products for women & men. Best Online Fashion Store\u00a0..."
-    },
-    {
-      "sl_no": 5,
-      "title": "Online Shopping Site in India | Shop for Mobiles, Electronics ...",
-      "site_name": "paytmmall.com",
-      "link": "https://paytmmall.com/",
-      "description": "Online Shopping of Mobile Phones, Electronics, Home Decor, Bags, Shoes & Clothing for Men & Women at Paytmmall.com. \u2713 100% Authentic.Online Shopping of Mobile Phones, Electronics, Home Decor, Bags, Shoes & Clothing for Men & Women at Paytmmall.com. \u2713 100% Authentic."
-    },
-    {
-      "sl_no": 6,
-      "title": "Online Shopping India - Shop for clothes, shoes, Bags ...",
-      "site_name": "www.shoppersstop.com",
-      "link": "https://www.shoppersstop.com/",
-      "description": "Shop online for the latest apparel, beauty, home decor products and more at attractive prices from Shoppers Stop. Deliveries are currently on hold due to the\u00a0...Shop online for the latest apparel, beauty, home decor products and more at attractive prices from Shoppers Stop. Deliveries are currently on hold due to the\u00a0..."
-    },
-    {
-      "sl_no": 7,
-      "title": "Online Shopping Site for Mobiles, Electronics, Furniture ...",
-      "site_name": "www.flipkart.com",
-      "link": "https://www.flipkart.com/",
-      "description": "India's biggest online store for Mobiles, Fashion (Clothes/Shoes), Electronics, Home Appliances, Books, Home, Furniture, Grocery, Jewelry, Sporting goods,\u00a0...India's biggest online store for Mobiles, Fashion (Clothes/Shoes), Electronics, Home Appliances, Books, Home, Furniture, Grocery, Jewelry, Sporting goods,\u00a0..."
-    },
-    {
-      "sl_no": 8,
-      "title": "Online Shopping Site - Shop Men & Women Fashion Online in ...",
-      "site_name": "www.limeroad.com",
-      "link": "https://www.limeroad.com/",
-      "description": "Online shopping like never before! Get the latest trends ruling the charts in India. With the most fashionable range of apparels, accessories, and more, Limeroad\u00a0...Online shopping like never before! Get the latest trends ruling the charts in India. With the most fashionable range of apparels, accessories, and more, Limeroad\u00a0..."
+  "results": {
+    "top_results": {},
+    "organic_results": {
+      "1": {
+        "title": "Online Shopping Site India - Shop Electronics, Mobiles, Men ...",
+        "site_name": "www.snapdeal.com",
+        "link": "https://www.snapdeal.com/",
+        "description": "Online shopping site - Shop Electronics, Mobile, Men & Women Clothing, Shoes, Home & Kitchen appliances online on Snapdeal in India. \u2606 Next Day Delivery\u00a0...Online shopping site - Shop Electronics, Mobile, Men & Women Clothing, Shoes, Home & Kitchen appliances online on Snapdeal in India. \u2606 Next Day Delivery\u00a0..."
+      },
+      "2": {
+        "title": "Online Shopping Site India - Shop Online for men, women and ...",
+        "site_name": "www.shopclues.com",
+        "link": "https://www.shopclues.com/",
+        "description": "Online shopping site in India - Shop Online for men, women and kids fashion, home d\u00e9cor and furnishings, kitchen apppliances, health and sports products at\u00a0...Online shopping site in India - Shop Online for men, women and kids fashion, home d\u00e9cor and furnishings, kitchen apppliances, health and sports products at\u00a0..."
+      },
+      "3": {
+        "title": "Myntra: Online Shopping for Women, Men, Kids Fashion ...",
+        "site_name": "www.myntra.com",
+        "link": "https://www.myntra.com/",
+        "description": "Online Shopping Site for Fashion & Lifestyle in India. Buy Shoes, Clothing, Accessories and lifestyle products for women & men. Best Online Fashion Store\u00a0...Online Shopping Site for Fashion & Lifestyle in India. Buy Shoes, Clothing, Accessories and lifestyle products for women & men. Best Online Fashion Store\u00a0..."
+      },
+      "4": {
+        "title": "Online Shopping Site in India | Shop for Mobiles, Electronics ...",
+        "site_name": "paytmmall.com",
+        "link": "https://paytmmall.com/",
+        "description": "Online Shopping of Mobile Phones, Electronics, Home Decor, Bags, Shoes & Clothing for Men & Women at Paytmmall.com. \u2713 100% Authentic.Online Shopping of Mobile Phones, Electronics, Home Decor, Bags, Shoes & Clothing for Men & Women at Paytmmall.com. \u2713 100% Authentic."
+      },
+      "5": {
+        "title": "Online Shopping site in India: Shop Online for Mobiles, Books ...",
+        "site_name": "www.amazon.in",
+        "link": "https://www.amazon.in/",
+        "description": "Amazon.in: Online Shopping India - Buy mobiles, laptops, cameras, books, watches, apparel, shoes and e-Gift Cards. Free Shipping & Cash on Delivery\u00a0...Amazon.in: Online Shopping India - Buy mobiles, laptops, cameras, books, watches, apparel, shoes and e-Gift Cards. Free Shipping & Cash on Delivery\u00a0..."
+      },
+      "6": {
+        "title": "Online Shopping India - Shop for clothes, shoes, Bags ...",
+        "site_name": "www.shoppersstop.com",
+        "link": "https://www.shoppersstop.com/",
+        "description": "Shop online for the latest apparel, beauty, home decor products and more at attractive prices from Shoppers Stop. Deliveries are currently on hold due to the\u00a0...Shop online for the latest apparel, beauty, home decor products and more at attractive prices from Shoppers Stop. Deliveries are currently on hold due to the\u00a0..."
+      },
+      "7": {
+        "title": "Online Shopping Site - Shop Men & Women Fashion Online in ...",
+        "site_name": "www.limeroad.com",
+        "link": "https://www.limeroad.com/",
+        "description": "Online shopping like never before! Get the latest trends ruling the charts in India. With the most fashionable range of apparels, accessories, and more, Limeroad\u00a0...Online shopping like never before! Get the latest trends ruling the charts in India. With the most fashionable range of apparels, accessories, and more, Limeroad\u00a0..."
+      },
+      "8": {
+        "title": "Online Shopping Site for Mobiles, Electronics, Furniture ...",
+        "site_name": "www.flipkart.com",
+        "link": "https://www.flipkart.com/",
+        "description": "India's biggest online store for Mobiles, Fashion (Clothes/Shoes), Electronics, Home Appliances, Books, Home, Furniture, Grocery, Jewelry, Sporting goods,\u00a0...India's biggest online store for Mobiles, Fashion (Clothes/Shoes), Electronics, Home Appliances, Books, Home, Furniture, Grocery, Jewelry, Sporting goods,\u00a0..."
+      }
     }
-  ]
+  }
 }
