@@ -1,3 +1,4 @@
+import os
 import json
 import yaml
 import random
@@ -57,6 +58,21 @@ def get_web_agent(all_conf):
     
     finally:
         return selected_agent
+
+
+def check_make_outputs_directory(dir_path):
+    """
+    It checks for the presence of Outputs Directory, if not present
+    then creates the same.
+    
+    Parameters
+    ----------
+    dir_path : str
+        It contains the path of Outputs directory.
+    """
+    
+    if not(os.path.exists(dir_path)):
+        os.mkdir(dir_path)
 
 
 def write_results_to_json(all_conf, res_dict, text):
@@ -155,4 +171,5 @@ if __name__ == "__main__":
     logging.info("Fetching Results from Google...")
     all_conf = get_all_config("./config.yaml")
     res_dict = get_result_dict(all_conf, text)
+    check_make_outputs_directory(all_conf['out_file_path'])
     write_results_to_json(all_conf, res_dict, text)
