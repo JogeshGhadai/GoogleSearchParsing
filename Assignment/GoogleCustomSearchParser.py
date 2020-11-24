@@ -33,6 +33,14 @@ def get_web_agent(all_conf):
         return selected_agent
 
 
+def write_results_to_json(all_conf, text):
+    
+    with open(f"{all_conf["out_file_path"]}results_{text.replace(" ", "_")}.json","w") as fl:
+        json.dump(res_dict,fl,indent=2)
+    
+    print("Data fetched and written to JSON Successfully.")
+
+
 def get_result_dict(all_conf, text):
     url = all_conf["search_url"] + text
     selected_agent = get_web_agent(all_conf)
@@ -73,14 +81,6 @@ def get_result_dict(all_conf, text):
         res_dict["results"]["organic_results"][counter]= indi_dict
     
     return res_dict
-
-
-def write_results_to_json(all_conf, text):
-    
-    with open(f"{all_conf["out_file_path"]}results_{text.replace(" ", "_")}.json","w") as fl:
-        json.dump(res_dict,fl,indent=2)
-    
-    print("Data fetched and written to JSON Successfully.")
 
 
 if __name__ == "__main__":
