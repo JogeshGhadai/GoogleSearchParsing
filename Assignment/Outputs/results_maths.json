@@ -10,33 +10,33 @@
         "description": "Math explained in easy language, plus puzzles, games, worksheets and an illustrated dictionary. For K-12 kids, teachers and parents.Math explained in easy language, plus puzzles, games, worksheets and an illustrated dictionary. For K-12 kids, teachers and parents."
       },
       "2": {
-        "title": "Mathematics - Wikipedia",
-        "site_name": "en.wikipedia.org \u203a wiki \u203a Mathematics",
-        "link": "https://en.wikipedia.org/wiki/Mathematics",
-        "description": "It is often shortened to maths or, in North America, math. Definitions of mathematics. Leonardo Fibonacci, the Italian mathematician who introduced the Hindu\u2013\u00a0...It is often shortened to maths or, in North America, math. Definitions of mathematics. Leonardo Fibonacci, the Italian mathematician who introduced the Hindu\u2013\u00a0..."
-      },
-      "3": {
-        "title": "Maths - Basic Maths Online, Easy Learning (Definition ... - Byju's",
-        "site_name": "byjus.com \u203a maths",
-        "link": "https://byjus.com/maths/",
-        "description": "Fundamentals of Maths covers basic arithmetic operations or calculations such as addition, subtraction, multiplication and division, which are taught to us in\u00a0...Fundamentals of Maths covers basic arithmetic operations or calculations such as addition, subtraction, multiplication and division, which are taught to us in\u00a0..."
-      },
-      "4": {
         "title": "Math - Khan Academy",
         "site_name": "www.khanacademy.org \u203a math",
         "link": "https://www.khanacademy.org/math",
         "description": "Learn fourth grade math\u2014arithmetic, measurement, geometry, fractions, and more. This course is aligned with Common Core standards.Learn fourth grade math\u2014arithmetic, measurement, geometry, fractions, and more. This course is aligned with Common Core standards."
       },
-      "5": {
-        "title": "Math - Indian curriculum | Khan Academy",
-        "site_name": "www.khanacademy.org \u203a math \u203a in-math-by-grade",
-        "link": "https://www.khanacademy.org/math/in-math-by-grade",
-        "description": "Khan Academy is creating new India-first content and mapping thousands of videos, exercises, and articles, to create NCERT aligned math courses. Learners can\u00a0...Khan Academy is creating new India-first content and mapping thousands of videos, exercises, and articles, to create NCERT aligned math courses. Learners can\u00a0..."
+      "3": {
+        "title": "Maths - Basic Maths Online, Easy Learning (Definition ... - Byjus",
+        "site_name": "byjus.com \u203a maths",
+        "link": "https://byjus.com/maths/",
+        "description": "Fundamentals of Maths covers basic arithmetic operations or calculations such as addition, subtraction, multiplication and division, which are taught to us in\u00a0...Fundamentals of Maths covers basic arithmetic operations or calculations such as addition, subtraction, multiplication and division, which are taught to us in\u00a0..."
       },
-      "6": {
+      "4": {
+        "title": "Mathematics - Wikipedia",
+        "site_name": "en.wikipedia.org \u203a wiki \u203a Mathematics",
+        "link": "https://en.wikipedia.org/wiki/Mathematics",
+        "description": "It is often shortened to maths or, in North America, math. Definitions of mathematics. Leonardo Fibonacci, the Italian mathematician who introduced the Hindu\u2013\u00a0...It is often shortened to maths or, in North America, math. Definitions of mathematics. Leonardo Fibonacci, the Italian mathematician who introduced the Hindu\u2013\u00a0..."
+      },
+      "5": {
         "title": "Math.com - World of Math Online",
         "site_name": "www.math.com",
         "link": "http://www.math.com/",
+        "description": "Free math lessons and math homework help from basic math to algebra, geometry and beyond. Students, teachers, parents, and everyone can find solutions to\u00a0...Free math lessons and math homework help from basic math to algebra, geometry and beyond. Students, teachers, parents, and everyone can find solutions to\u00a0..."
+      },
+      "6": {
+        "title": "Math.com Math Practice",
+        "site_name": "www.math.com \u203a students \u203a practice",
+        "link": "http://www.math.com/students/practice.html",
         "description": "Free math lessons and math homework help from basic math to algebra, geometry and beyond. Students, teachers, parents, and everyone can find solutions to\u00a0...Free math lessons and math homework help from basic math to algebra, geometry and beyond. Students, teachers, parents, and everyone can find solutions to\u00a0..."
       },
       "7": {
@@ -44,12 +44,6 @@
         "site_name": "in.ixl.com \u203a math",
         "link": "https://in.ixl.com/math/",
         "description": "Practise maths online with IXL. Our site offers thousands of online maths practice skills covering LKG through class XII maths, with questions that adapt to a\u00a0...Practise maths online with IXL. Our site offers thousands of online maths practice skills covering LKG through class XII maths, with questions that adapt to a\u00a0..."
-      },
-      "8": {
-        "title": "Mathematics - arXiv",
-        "site_name": "arxiv.org \u203a math",
-        "link": "https://arxiv.org/archive/math",
-        "description": "Search within the math archive; Article statistics by year: ... computational aspects, invariant theory, connections to algebraic geometry and combinatorics. math.Search within the math archive; Article statistics by year: ... computational aspects, invariant theory, connections to algebraic geometry and combinatorics. math."
       }
     }
   }

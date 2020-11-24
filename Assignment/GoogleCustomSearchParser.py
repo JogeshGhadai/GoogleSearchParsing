@@ -75,7 +75,7 @@ def write_results_to_json(all_conf, res_dict, text):
     """
     
     try:
-        with open(f"{all_conf["out_file_path"]}results_{text.replace(" ", "_")}.json","w") as fl:
+        with open(f"{all_conf['out_file_path']}results_{text.replace(' ', '_')}.json","w") as fl:
             json.dump(res_dict,fl,indent=2)
     
         logging.info("Data written to JSON Successfully.")
