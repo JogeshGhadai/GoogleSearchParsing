@@ -33,7 +33,7 @@ def get_web_agent(all_conf):
         return selected_agent
 
 
-def write_results_to_json(all_conf, text):
+def write_results_to_json(all_conf, res_dict, text):
     
     with open(f"{all_conf["out_file_path"]}results_{text.replace(" ", "_")}.json","w") as fl:
         json.dump(res_dict,fl,indent=2)
@@ -88,4 +88,5 @@ if __name__ == "__main__":
     print("Fetching Results from Google...")
     all_conf = get_all_config("./config.yaml")
     res_dict = get_result_dict(all_conf, text)
+    write_results_to_json(all_conf, res_dict, text)
 
