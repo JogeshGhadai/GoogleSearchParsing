@@ -1,7 +1,6 @@
 {
   "keyword": "world war 2",
   "results": {
-    "top_results": {},
     "organic_results": {
       "1": {
         "title": "World War II - Wikipedia",
@@ -34,11 +33,12 @@
         "description": "Oct 30, 2011 \u2014 At the end of World War II, huge swaths of Europe and Asia had been reduced to ruins. Borders were redrawn and homecomings, expulsions,\u00a0...Oct 30, 2011 \u2014 At the end of World War II, huge swaths of Europe and Asia had been reduced to ruins. Borders were redrawn and homecomings, expulsions,\u00a0..."
       },
       "6": {
-        "title": "Research Starters: Worldwide Deaths in World War II | The ...",
-        "site_name": "www.nationalww2museum.org \u203a student-resources \u203a re...",
-        "link": "https://www.nationalww2museum.org/students-teachers/student-resources/research-starters/research-starters-worldwide-deaths-world-war",
-        "description": "See estimates for worldwide deaths, broken down by country, in World War II.See estimates for worldwide deaths, broken down by country, in World War II."
+        "title": "World War II Photos | National Archives",
+        "site_name": "www.archives.gov \u203a research \u203a military \u203a ww2 \u203a photos",
+        "link": "https://www.archives.gov/research/military/ww2/photos",
+        "description": "Sep 9, 2020 \u2014 The Second World War was documented on a huge scale by thousands of photographers and artists who created millions of pictures. American\u00a0...Sep 9, 2020 \u2014 The Second World War was documented on a huge scale by thousands of photographers and artists who created millions of pictures. American\u00a0..."
       }
-    }
+    },
+    "other_results": {}
   }
 }

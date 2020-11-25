@@ -1,26 +1,6 @@
 {
   "keyword": "cricket",
   "results": {
-    "top_results": {
-      "1": {
-        "title": "IND v AUS 2020: Shreyas Iyer Tests (first-class) record, stats and more",
-        "site_name": "Sportskeeda",
-        "link": "https://www.sportskeeda.com/cricket/ind-v-aus-2020-shreyas-iyer-tests-first-class-record-stats",
-        "description": "IND v AUS 2020: Shreyas Iyer Tests (first-class) record, stats and more"
-      },
-      "2": {
-        "title": "Team management to ask for Shreyas Iyer as cover as Rohit Sharma looks set \nto miss Australia Tests - Report",
-        "site_name": "Times Now",
-        "link": "https://www.timesnownews.com/sports/cricket/article/team-management-to-ask-for-shreyas-iyer-as-cover-as-rohit-sharma-looks-set-to-miss-australia-tests-report/685943",
-        "description": "Team management to ask for Shreyas Iyer as cover as Rohit Sharma looks set \nto miss Australia Tests - Report"
-      },
-      "3": {
-        "title": "Joe Root, Olly Stone Shine In England T20 Warm-Up Match",
-        "site_name": "NDTVSports.com",
-        "link": "https://sports.ndtv.com/cricket/joe-root-olly-stone-shine-in-england-t20-warm-up-match-2329383",
-        "description": "Joe Root, Olly Stone Shine In England T20 Warm-Up Match"
-      }
-    },
     "organic_results": {
       "1": {
         "title": "Live Cricket Score | Scorecard | Live Commentary - Cricbuzz",
@@ -29,40 +9,62 @@
         "description": "Get Live Cricket Score, Ball by Ball Commentary, Scorecard Updates, Match Facts & related News of all the International & Domestic Cricket Matches across the\u00a0...Get Live Cricket Score, Ball by Ball Commentary, Scorecard Updates, Match Facts & related News of all the International & Domestic Cricket Matches across the\u00a0..."
       },
       "2": {
-        "title": "ESPNcricinfo.com: Check Live Cricket Scores, Match ...",
-        "site_name": "www.espncricinfo.com",
-        "link": "https://www.espncricinfo.com/",
-        "description": "6 hours ago \u2014 Find Live Cricket Scores, Match updates, Fixtures, Results, News, Articles, Video highlights only at ESPNcricinfo. Read Ball by Ball Commentary, Series\u00a0...6 hours ago \u2014 Find Live Cricket Scores, Match updates, Fixtures, Results, News, Articles, Video highlights only at ESPNcricinfo. Read Ball by Ball Commentary, Series\u00a0..."
-      },
-      "3": {
-        "title": "Cricket - Wikipedia",
-        "site_name": "en.wikipedia.org \u203a wiki \u203a Cricket",
-        "link": "https://en.wikipedia.org/wiki/Cricket",
-        "description": "Cricket is a bat-and-ball game played between two teams of eleven players on a field at the centre of which is a 22-yard (20-metre) pitch with a wicket at each\u00a0...Cricket is a bat-and-ball game played between two teams of eleven players on a field at the centre of which is a 22-yard (20-metre) pitch with a wicket at each\u00a0...First played: 16th century; South-East EnglandCountry or region: Commonwealth and British ...\u200eTeam members: 11 players per side (substitutes\u200e ...\u200eEquipment: Cricket ball, \u200eCricket bat\u200e, \u200eWicket\u200e ...\u200e"
-      },
-      "4": {
-        "title": "Live Cricket Score | Commentary | Cricket News and Updates ...",
-        "site_name": "cricket.yahoo.net",
-        "link": "https://cricket.yahoo.net/",
-        "description": "1 hour ago \u2014 Check all the latest news and updates of cricket, live cricket score, commentary, scorecard, fixtures, ranking and highlights only on Yahoo! Cricket.1 hour ago \u2014 Check all the latest news and updates of cricket, live cricket score, commentary, scorecard, fixtures, ranking and highlights only on Yahoo! Cricket."
-      },
-      "5": {
         "title": "Live Cricket Scores & News International Cricket Council",
         "site_name": "www.icc-cricket.com",
         "link": "https://www.icc-cricket.com/",
         "description": "Official ICC Cricket website - live matches, scores, news, highlights, commentary, rankings, videos and fixtures from the International Cricket Council.Official ICC Cricket website - live matches, scores, news, highlights, commentary, rankings, videos and fixtures from the International Cricket Council."
       },
+      "3": {
+        "title": "ESPNcricinfo.com: Check Live Cricket Scores, Match ...",
+        "site_name": "www.espncricinfo.com",
+        "link": "https://www.espncricinfo.com/",
+        "description": "5 hours ago \u2014 Find Live Cricket Scores, Match updates, Fixtures, Results, News, Articles, Video highlights only at ESPNcricinfo. Read Ball by Ball Commentary, Series\u00a0...5 hours ago \u2014 Find Live Cricket Scores, Match updates, Fixtures, Results, News, Articles, Video highlights only at ESPNcricinfo. Read Ball by Ball Commentary, Series\u00a0..."
+      },
+      "4": {
+        "title": "Cricket - Wikipedia",
+        "site_name": "en.wikipedia.org \u203a wiki \u203a Cricket",
+        "link": "https://en.wikipedia.org/wiki/Cricket",
+        "description": "Cricket is a bat-and-ball game played between two teams of eleven players on a field at the centre of which is a 22-yard (20-metre) pitch with a wicket at each\u00a0...Cricket is a bat-and-ball game played between two teams of eleven players on a field at the centre of which is a 22-yard (20-metre) pitch with a wicket at each\u00a0...First played: 16th century; South-East EnglandCountry or region: Commonwealth and British ...\u200eTeam members: 11 players per side (substitutes\u200e ...\u200eEquipment: Cricket ball, \u200eCricket bat\u200e, \u200eWicket\u200e ...\u200e"
+      },
+      "5": {
+        "title": "Live Cricket Score | Commentary | Cricket News and Updates ...",
+        "site_name": "cricket.yahoo.net",
+        "link": "https://cricket.yahoo.net/",
+        "description": "4 hours ago \u2014 Check all the latest news and updates of cricket, live cricket score, commentary, scorecard, fixtures, ranking and highlights only on Yahoo! Cricket.4 hours ago \u2014 Check all the latest news and updates of cricket, live cricket score, commentary, scorecard, fixtures, ranking and highlights only on Yahoo! Cricket."
+      },
       "6": {
         "title": "Cricket News: Latest Cricket News, Live Scores, Results ...",
         "site_name": "timesofindia.indiatimes.com \u203a Sports News",
         "link": "https://timesofindia.indiatimes.com/sports/cricket",
-        "description": "12 hours ago \u2014 Cricket News Live: Check live cricket scores, schedule, results, scorecard, upcoming matches list and ball by ball commentary along with player stats, player\u00a0...12 hours ago \u2014 Cricket News Live: Check live cricket scores, schedule, results, scorecard, upcoming matches list and ball by ball commentary along with player stats, player\u00a0..."
+        "description": "10 hours ago \u2014 Cricket News Live: Check live cricket scores, schedule, results, scorecard, upcoming matches list and ball by ball commentary along with player stats, player\u00a0...10 hours ago \u2014 Cricket News Live: Check live cricket scores, schedule, results, scorecard, upcoming matches list and ball by ball commentary along with player stats, player\u00a0..."
       },
       "7": {
-        "title": "India could pay heavily for World Test Championship rule ...",
-        "site_name": "timesofindia.indiatimes.com \u203a ... \u203a CRICKET NEWS",
-        "link": "https://timesofindia.indiatimes.com/sports/cricket/icc-world-test-championship/team-india-could-pay-heavily-for-world-test-championships-ill-conceived-rule-change/articleshow/79380830.cms",
-        "description": "4 hours ago \u2014 Cricket News: The \u201cminor\u201d change brought about in the ICC World Test Championship points system has cracked open a massive divide in the\u00a0...4 hours ago \u2014 Cricket News: The \u201cminor\u201d change brought about in the ICC World Test Championship points system has cracked open a massive divide in the\u00a0..."
+        "title": "Live Cricket Scores, Highlights, Cricket News, Results, Stats ...",
+        "site_name": "sports.ndtv.com \u203a cricket",
+        "link": "https://sports.ndtv.com/cricket",
+        "description": "12 hours ago \u2014 Read all the latest information related to Cricket, live scores,Cricket news, results, stats, videos, highlights. Find all the Cricket matches schedules at NDTV\u00a0...12 hours ago \u2014 Read all the latest information related to Cricket, live scores,Cricket news, results, stats, videos, highlights. Find all the Cricket matches schedules at NDTV\u00a0..."
+      }
+    },
+    "other_results": {
+      "top_results": {
+        "1": {
+          "title": "Star India bags media rights for Cricket South Africa",
+          "site_name": "ETBrandEquity.com",
+          "link": "https://brandequity.economictimes.indiatimes.com/news/media/star-india-bags-media-rights-for-cricket-south-africa/79403118",
+          "description": "Star India bags media rights for Cricket South Africa"
+        },
+        "2": {
+          "title": "Waqar Younis expects tight contest between India and Australia",
+          "site_name": "Times of India",
+          "link": "https://timesofindia.indiatimes.com/sports/cricket/india-in-australia/waqar-younis-expects-tight-contest-between-india-and-australia/articleshow/79402309.cms",
+          "description": "Waqar Younis expects tight contest between India and Australia"
+        },
+        "3": {
+          "title": "New Zealand, Windies players pass final COVID-19 tests",
+          "site_name": "Times of India",
+          "link": "https://timesofindia.indiatimes.com/sports/cricket/news/new-zealand-windies-players-pass-final-covid-19-tests/articleshow/79401726.cms",
+          "description": "New Zealand, Windies players pass final COVID-19 tests"
+        }
       }
     }
   }

@@ -124,29 +124,15 @@ def get_result_dict(all_conf, text):
         headers = {'user-agent': selected_agent}
         response = requests.get(url, headers=headers)
         soup = BeautifulSoup(response.text, 'html.parser')
-        all_top = soup.find_all('g-scrolling-carousel')
-        top_results = all_top[0].find_all('div',class_='JJZKK') if len(all_top)>0 else ""
+        all_top = soup.find_all('g-scrolling-carousel', class_='F8yfEe')
         results = soup.find_all('div',class_='rc')
 
         counter = 0
         res_dict = {}
         res_dict["keyword"] = text
         res_dict["results"] = {}
-        res_dict["results"]["top_results"] = {}
         res_dict["results"]["organic_results"] = {}
-
-        for result in top_results[:3]:
-            counter += 1
-            indi_dict = {}
-            temp = result.find_all('div',class_='mCBkyc oz3cqf p5AXld nDgy9d')[0].text
-            indi_dict['title'] = temp
-            ttemp = result.find_all('g-img',class_='RdhoHd')
-            indi_dict['site_name'] = ttemp[0].select('img')[0].get('alt') if len(ttemp)>0 else ""
-            indi_dict['link'] = result.find_all('a')[0].get('href')
-            indi_dict['description'] = temp
-            res_dict["results"]["top_results"][counter]= indi_dict
-
-        counter = 0
+        res_dict["results"]["other_results"] = {}
     
         for result in results:
             counter += 1
@@ -156,7 +142,40 @@ def get_result_dict(all_conf, text):
             indi_dict["link"] = result.select('a')[0].get('href')
             indi_dict["description"] = "".join([x.text for x in result.find('div',class_="IsZvec").select("span")])
             res_dict["results"]["organic_results"][counter]= indi_dict
-    
+        
+        first_res_flag = 1
+        section_counter = 0
+        
+        for results in all_top:
+            top_results = results.find_all('div',class_='JJZKK')
+            counter = 0
+            
+            if first_res_flag:
+                res_dict["results"]["other_results"]["top_results"] = {}
+            
+            else:
+                section_counter += 1
+                res_dict["results"]["other_results"][f"section_{section_counter}"] = {}
+            
+            for result in top_results[:3]:
+                counter += 1
+                indi_dict = {}
+                temp = result.find_all('div',class_='mCBkyc oz3cqf p5AXld nDgy9d')[0].text
+                indi_dict['title'] = temp
+                ttemp = result.find_all('g-img',class_='RdhoHd')
+                indi_dict['site_name'] = ttemp[0].select('img')[0].get('alt') if len(ttemp)>0 else ""
+                indi_dict['link'] = result.find_all('a')[0].get('href')
+                indi_dict['description'] = temp
+                
+                if first_res_flag:
+                    res_dict["results"]["other_results"]["top_results"][counter] = indi_dict
+                
+                else:
+                    res_dict["results"]["other_results"][f"section_{section_counter}"][counter] = indi_dict
+            
+            if first_res_flag:
+                first_res_flag = 0
+   
         logging.info("Results fetched from Google Successfully.")
         
     except Exception as e:

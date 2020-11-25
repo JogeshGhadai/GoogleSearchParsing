@@ -1,7 +1,6 @@
 {
   "keyword": "steve jobs",
   "results": {
-    "top_results": {},
     "organic_results": {
       "1": {
         "title": "Steve Jobs - Wikipedia",
@@ -31,13 +30,13 @@
         "title": "Remembering Steve Jobs - Apple (IN)",
         "site_name": "www.apple.com \u203a stevejobs",
         "link": "https://www.apple.com/in/stevejobs/",
-        "description": "Remembering Steve Jobs. Steve Jobs was an inspiration for all creative and thoughtful people. He spent his life helping us to see the possibilities. Long may his\u00a0...Remembering Steve Jobs. Steve Jobs was an inspiration for all creative and thoughtful people. He spent his life helping us to see the possibilities. Long may his\u00a0..."
+        "description": "universal idol. Steve Jobs was not just a man, an inventor, a teacher or a business man. steve created a whole new life to modern technology. He created a\u00a0...universal idol. Steve Jobs was not just a man, an inventor, a teacher or a business man. steve created a whole new life to modern technology. He created a\u00a0..."
       },
       "6": {
         "title": "Remembering Steve Jobs - Apple",
         "site_name": "www.apple.com \u203a stevejobs",
         "link": "https://www.apple.com/stevejobs/",
-        "description": "He's made my life easier and my career more fruitful with his vision and creations. Neal. Never forgotten. Steve Jobs, you will be missed. Rest in peace. Thanks for\u00a0...He's made my life easier and my career more fruitful with his vision and creations. Neal. Never forgotten. Steve Jobs, you will be missed. Rest in peace. Thanks for\u00a0..."
+        "description": "Remembering Steve Jobs. Steve Jobs was an inspiration for all creative and thoughtful people. He spent his life helping us to see the possibilities. Long may his\u00a0...Remembering Steve Jobs. Steve Jobs was an inspiration for all creative and thoughtful people. He spent his life helping us to see the possibilities. Long may his\u00a0..."
       },
       "7": {
         "title": "The Real Leadership Lessons of Steve Jobs",
@@ -57,6 +56,7 @@
         "link": "https://allaboutstevejobs.com/",
         "description": "This website is a repository of all things Steve Jobs \u2014 biography, pictures, videos of his keynotes and demos, quotes, interviews \u2014 you name it. It's also home to\u00a0...This website is a repository of all things Steve Jobs \u2014 biography, pictures, videos of his keynotes and demos, quotes, interviews \u2014 you name it. It's also home to\u00a0..."
       }
-    }
+    },
+    "other_results": {}
   }
 }

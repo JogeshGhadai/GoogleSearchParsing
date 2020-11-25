@@ -1,38 +1,18 @@
 {
   "keyword": "joe biden",
   "results": {
-    "top_results": {
-      "1": {
-        "title": "Biden Transition Formally Begins As Trump Says He Will Cooperate",
-        "site_name": "NDTV",
-        "link": "https://www.ndtv.com/world-news/joe-biden-biden-transition-formally-begins-as-donald-trump-says-he-will-cooperate-2329312",
-        "description": "Biden Transition Formally Begins As Trump Says He Will Cooperate"
-      },
-      "2": {
-        "title": "US agency ascertains Joe Biden as winner, lets transition begin",
-        "site_name": "Hindustan Times",
-        "link": "https://www.hindustantimes.com/us-presidential-election/us-agency-ascertains-joe-biden-as-winner-lets-transition-begin/story-5e5re0oxTlXgEUSMZJc6hI.html",
-        "description": "US agency ascertains Joe Biden as winner, lets transition begin"
-      },
-      "3": {
-        "title": "Explained: In Team Biden\u2019s recent statements, a sense of US approach to \nIndia",
-        "site_name": "The Indian Express",
-        "link": "https://indianexpress.com/article/explained/in-team-bidens-recent-statements-a-sense-of-us-approach-to-india-7063064/",
-        "description": "Explained: In Team Biden\u2019s recent statements, a sense of US approach to \nIndia"
-      }
-    },
     "organic_results": {
       "1": {
-        "title": "Biden defeats Trump for White House, says 'time to heal'",
-        "site_name": "apnews.com \u203a article \u203a joe-biden-wins-white-house-ap-...",
-        "link": "https://apnews.com/article/joe-biden-wins-white-house-ap-fd58df73aa677acb74fce2a69adb71f9",
-        "description": "Nov 7, 2020 \u2014 WASHINGTON (AP) \u2014 Democrat Joe Biden defeated President Donald Trump to become the 46th president of the United States on Saturday\u00a0...Nov 7, 2020 \u2014 WASHINGTON (AP) \u2014 Democrat Joe Biden defeated President Donald Trump to become the 46th president of the United States on Saturday\u00a0..."
-      },
-      "2": {
         "title": "Joe Biden for President: Official Campaign Website",
         "site_name": "joebiden.com",
         "link": "https://joebiden.com/",
         "description": "We are the United States of America. There is not a single thing we cannot do. Are you with us? Join our campaign to elect Joe Biden today!We are the United States of America. There is not a single thing we cannot do. Are you with us? Join our campaign to elect Joe Biden today!"
+      },
+      "2": {
+        "title": "Joe Biden - Wikipedia",
+        "site_name": "en.wikipedia.org \u203a wiki \u203a Joe_Biden",
+        "link": "https://en.wikipedia.org/wiki/Joe_Biden",
+        "description": "Joseph Robinette Biden Jr is an American politician and the president-elect of the United States. He defeated incumbent president Donald Trump in the 2020\u00a0...Joseph Robinette Biden Jr is an American politician and the president-elect of the United States. He defeated incumbent president Donald Trump in the 2020\u00a0...Political party: DemocraticParents: Joseph R. Biden Sr. Catherine Eugenia ...President: Barack ObamaRelatives: Edward Francis Blewitt; (great-gran...\u200e"
       },
       "3": {
         "title": "Joe Biden 2020: Polls, news and on the issues - CNN.com",
@@ -41,22 +21,44 @@
         "description": "Joe Biden is the Former vice president of the United States and is a candidate in the 2020 US presidential election. Find out more about his bio and key issues.Joe Biden is the Former vice president of the United States and is a candidate in the 2020 US presidential election. Find out more about his bio and key issues."
       },
       "4": {
-        "title": "Joe Biden - Wikipedia",
-        "site_name": "en.wikipedia.org \u203a wiki \u203a Joe_Biden",
-        "link": "https://en.wikipedia.org/wiki/Joe_Biden",
-        "description": "Joseph Robinette Biden Jr is an American politician and the president-elect of the United States. He defeated incumbent president Donald Trump in the 2020\u00a0...Joseph Robinette Biden Jr is an American politician and the president-elect of the United States. He defeated incumbent president Donald Trump in the 2020\u00a0...Political party: DemocraticParents: Joseph R. Biden Sr. Catherine Eugenia ...President: Barack ObamaRelatives: Edward Francis Blewitt; (great-gran...\u200e"
+        "title": "Biden defeats Trump for White House, says 'time to heal'",
+        "site_name": "apnews.com \u203a article \u203a joe-biden-wins-white-house-ap-...",
+        "link": "https://apnews.com/article/joe-biden-wins-white-house-ap-fd58df73aa677acb74fce2a69adb71f9",
+        "description": "Nov 7, 2020 \u2014 WASHINGTON (AP) \u2014 Democrat Joe Biden defeated President Donald Trump to become the 46th president of the United States on Saturday\u00a0...Nov 7, 2020 \u2014 WASHINGTON (AP) \u2014 Democrat Joe Biden defeated President Donald Trump to become the 46th president of the United States on Saturday\u00a0..."
       },
       "5": {
-        "title": "US election 2020 Live updates: Joe Biden builds his foreign ...",
-        "site_name": "economictimes.indiatimes.com \u203a ... \u203a World News",
-        "link": "https://economictimes.indiatimes.com/news/international/world-news/us-election-results-2020-live-news-updates-novermber-24/liveblog/79379817.cms",
-        "description": "2 hours ago \u2014 The new appointees also reflect Biden's promise to build an administration that reflects the nation's diversity.2 hours ago \u2014 The new appointees also reflect Biden's promise to build an administration that reflects the nation's diversity.24 Nov - 25 NovUS election 2020 Live ..."
+        "title": "Joe Biden: Saying 'America is back,' Biden presents security ...",
+        "site_name": "timesofindia.indiatimes.com \u203a World News \u203a US News",
+        "link": "https://timesofindia.indiatimes.com/world/us/saying-america-is-back-biden-presents-security-and-foreign-policy-team/articleshow/79400217.cms",
+        "description": "4 hours ago \u2014 US News: President-elect Joe Biden on Tuesday introduced a slate of veteran diplomats and policy-makers who will make up his national\u00a0...4 hours ago \u2014 US News: President-elect Joe Biden on Tuesday introduced a slate of veteran diplomats and policy-makers who will make up his national\u00a0..."
       },
       "6": {
         "title": "Joe Biden: Joe Biden latest news, Joe Biden election updates ...",
         "site_name": "economictimes.indiatimes.com \u203a news \u203a joe-biden",
         "link": "https://economictimes.indiatimes.com/news/joe-biden",
-        "description": "Days before he left the White House in 2017, former President Barack Obama surprised Joe Biden with the Presidential Medal of Freedom and said Biden was \"the\u00a0...Days before he left the White House in 2017, former President Barack Obama surprised Joe Biden with the Presidential Medal of Freedom and said Biden was \"the\u00a0..."
+        "description": "Democrat Joe Biden has been certified as the winner of the presidential election in Pennsylvania, culminating three weeks of vote counting and a string of failed\u00a0...Democrat Joe Biden has been certified as the winner of the presidential election in Pennsylvania, culminating three weeks of vote counting and a string of failed\u00a0..."
+      }
+    },
+    "other_results": {
+      "top_results": {
+        "1": {
+          "title": "Saying 'America is back,' Biden presents security and foreign policy team",
+          "site_name": "Times of India",
+          "link": "https://timesofindia.indiatimes.com/world/us/saying-america-is-back-biden-presents-security-and-foreign-policy-team/articleshow/79400217.cms",
+          "description": "Saying 'America is back,' Biden presents security and foreign policy team"
+        },
+        "2": {
+          "title": "Explained: The significance of former secretary of state John Kerry\u2019s \nappointment as Joe Biden\u2019s climate envoy",
+          "site_name": "The Indian Express",
+          "link": "https://indianexpress.com/article/explained/john-kerry-joe-biden-climate-envoy-7064182/",
+          "description": "Explained: The significance of former secretary of state John Kerry\u2019s \nappointment as Joe Biden\u2019s climate envoy"
+        },
+        "3": {
+          "title": "Joe Biden to get his delayed presidential transition aid: Donald Trump",
+          "site_name": "Hindustan Times",
+          "link": "https://www.hindustantimes.com/us-presidential-election/joe-biden-to-get-his-delayed-presidential-transition-aid-donald-trump/story-zIaMmtKzFn9fZFKbsQPRcL.html",
+          "description": "Joe Biden to get his delayed presidential transition aid: Donald Trump"
+        }
       }
     }
   }
